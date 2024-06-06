@@ -1,0 +1,14 @@
+C:\Users\evanc\OneDrive\Documents\WSD24\Back End\data-structures-and-algorithms\labs\lab-3\lab-3\obj\Debug\net8.0\lab-3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\evanc\OneDrive\Documents\WSD24\Back End\data-structures-and-algorithms\labs\lab-3\lab-3\obj\Debug\net8.0\lab-3.AssemblyInfoInputs.cache
+C:\Users\evanc\OneDrive\Documents\WSD24\Back End\data-structures-and-algorithms\labs\lab-3\lab-3\obj\Debug\net8.0\lab-3.AssemblyInfo.cs
+C:\Users\evanc\OneDrive\Documents\WSD24\Back End\data-structures-and-algorithms\labs\lab-3\lab-3\obj\Debug\net8.0\lab-3.csproj.CoreCompileInputs.cache
+C:\Users\evanc\OneDrive\Documents\WSD24\Back End\data-structures-and-algorithms\labs\lab-3\lab-3\bin\Debug\net8.0\lab-3.exe
+C:\Users\evanc\OneDrive\Documents\WSD24\Back End\data-structures-and-algorithms\labs\lab-3\lab-3\bin\Debug\net8.0\lab-3.deps.json
+C:\Users\evanc\OneDrive\Documents\WSD24\Back End\data-structures-and-algorithms\labs\lab-3\lab-3\bin\Debug\net8.0\lab-3.runtimeconfig.json
+C:\Users\evanc\OneDrive\Documents\WSD24\Back End\data-structures-and-algorithms\labs\lab-3\lab-3\bin\Debug\net8.0\lab-3.dll
+C:\Users\evanc\OneDrive\Documents\WSD24\Back End\data-structures-and-algorithms\labs\lab-3\lab-3\bin\Debug\net8.0\lab-3.pdb
+C:\Users\evanc\OneDrive\Documents\WSD24\Back End\data-structures-and-algorithms\labs\lab-3\lab-3\obj\Debug\net8.0\lab-3.dll
+C:\Users\evanc\OneDrive\Documents\WSD24\Back End\data-structures-and-algorithms\labs\lab-3\lab-3\obj\Debug\net8.0\refint\lab-3.dll
+C:\Users\evanc\OneDrive\Documents\WSD24\Back End\data-structures-and-algorithms\labs\lab-3\lab-3\obj\Debug\net8.0\lab-3.pdb
+C:\Users\evanc\OneDrive\Documents\WSD24\Back End\data-structures-and-algorithms\labs\lab-3\lab-3\obj\Debug\net8.0\lab-3.genruntimeconfig.cache
+C:\Users\evanc\OneDrive\Documents\WSD24\Back End\data-structures-and-algorithms\labs\lab-3\lab-3\obj\Debug\net8.0\ref\lab-3.dll

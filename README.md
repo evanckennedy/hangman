@@ -18,6 +18,10 @@ This is a console-based word guessing game developed in C#. The game incorporate
 
 7. **Game Over Handling**: When the game is over (either because the word is guessed or the player reaches the maximum incorrect guesses), it displays a message indicating the outcome and reveals the correct word.
 
+## Main Program File
+
+The main program file is `Program.cs`. This is where the game logic is implemented.
+
 ## How to Play
 
 Run the program, and follow the prompts in the console. Good luck!
